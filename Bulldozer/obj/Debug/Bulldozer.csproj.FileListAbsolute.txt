@@ -1,0 +1,7 @@
+C:\Coding\cSharp\Bulldozer\Bulldozer\bin\Debug\Bulldozer.pdb
+C:\Coding\cSharp\Bulldozer\Bulldozer\obj\Debug\Bulldozer.csprojResolveAssemblyReference.cache
+C:\Coding\cSharp\Bulldozer\Bulldozer\obj\Debug\Bulldozer.csproj.CoreCompileInputs.cache
+C:\Coding\cSharp\Bulldozer\Bulldozer\obj\Debug\Bulldozer.pdb
+C:\Coding\cSharp\Bulldozer\Bulldozer\bin\Debug\Bulldozer.exe.config
+C:\Coding\cSharp\Bulldozer\Bulldozer\bin\Debug\Bulldozer.exe
+C:\Coding\cSharp\Bulldozer\Bulldozer\obj\Debug\Bulldozer.exe
