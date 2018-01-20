@@ -19,24 +19,41 @@ namespace Bulldozer
     public class GeneralObject //objectThatMovesSizeColor
     {
         //enter constructor (has same name as class)
-        public GeneralObject() { 
+        public GeneralObject() {
         }
-          //give constructor the common properties ur objects have
-          //then delete those properties from the objects
-          public bool moves { get; set; }
-          public string color { get; set; }
+        //give constructor the common properties ur objects have
+        //then delete those properties from the objects
+        public bool moves { get; set; }
+        public string color { get; set; }
+    }
+
+    public class Human: GeneralObject
+    {
+        public Human(){
         }
+            public string name { get; set; }
+    }
 
-
-    public class Man: GeneralObject
+    public class Man: Human //inherit from human as human also inherits from generalobject
     {
         public Man()
         {
         }
         //public bool moves { get; set; } //moves & color common denominator
-        public string size { get; set; }
+        //public string name { get; set; } //exists under woman, so create new inheritance class called human so as not to repeat code
         //public string color { get; set; } //moves & color common denominator
     }
+
+    public class Woman : Human
+    {
+        public Woman()//this is the constructor. See it's in every object
+        {
+        }
+        //public bool moves { get; set; } //moves & color common denominator
+        //public string name { get; set; }
+        //public string color { get; set; } //moves & color common denominator
+    }
+
     public class Kart: GeneralObject
     {
         public Kart() {
