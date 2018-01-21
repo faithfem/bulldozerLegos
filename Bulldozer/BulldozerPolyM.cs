@@ -1,4 +1,4 @@
-﻿using System;
+﻿/*using System;
 /*using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -8,7 +8,7 @@ using System.Threading.Tasks;*/
 //2 METHODS EACH WITH A DIFFERENT INPUT TYPE THAT ALLOW YOU
 //TO DO THE SAME THING
 
-namespace Bulldozer
+/*namespace Bulldozer
 {
     class BulldozerPolyM
     {
@@ -56,4 +56,4 @@ namespace Bulldozer
 
     }
 
-}
+}*/
