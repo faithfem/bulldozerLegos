@@ -18,6 +18,7 @@ namespace Bulldozer
             worker.Count(4);
             worker.Count(5);
             worker.Count(4.5f);
+            
         }
     }
 
@@ -45,6 +46,11 @@ namespace Bulldozer
         {
             Total = Total + number;
             Console.WriteLine(Total.ToString());
+        }
+
+        public void Count(int num1, float num2, double num3)
+        {
+
         }
         public float Total { get; set; }
 
