@@ -1,10 +1,10 @@
 ﻿using System;
 
-namespace Bulldozer
+/*namespace Bulldozer
 {
     class MainClass
     {
-        public static void Main(string[] args)
+        public class static void Main(string[] args)
         {
             var man = new Man();
             var kart = new Kart();
@@ -72,5 +72,5 @@ namespace Bulldozer
         public string planet { get; set; }
         //public string color { get; set; }
     }
-}
+}*/
 

@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Bulldozer
+/*namespace Bulldozer
 {
     class Program
     {
@@ -28,4 +28,4 @@ namespace Bulldozer
         public string color { get; set; }
         public string size { get; set; }
     }
-}
+}*/
