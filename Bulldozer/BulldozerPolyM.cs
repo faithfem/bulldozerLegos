@@ -4,6 +4,10 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;*/
 
+//POLYMORPHISM EXAMPLE
+//2 METHODS EACH WITH A DIFFERENT INPUT TYPE THAT ALLOW YOU
+//TO DO THE SAME THING
+
 namespace Bulldozer
 {
     class BulldozerPolyM
